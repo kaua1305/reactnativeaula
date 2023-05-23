@@ -16,8 +16,25 @@
 // import ExercicioScreen1 from "./componentes/ExercicioScreen1"
 // import Aleatorio from "./componentes/Aleatorio"
 // import ContadorV2 from "./componentes/Contador/ContadorV2"
+// import Familia from "./componentes/relacao/Familia"
+// import Membro from "./componentes/relacao/Membro"
 
 // const Stack = createNativeStackNavigator()
+
+// <SafeAreaView style={styles.TelaIniciante}>
+// <Familia>
+//     <Membro nome="Jorge" sobrenome="Pereiras"/>
+//     <Membro nome="Ednaldo" sobrenome="Pereiras"/>
+//     <Membro nome="Marcinho" sobrenome="Pereiras"/>
+//     <Membro nome="Roberta" sobrenome="Pereiras"/>
+// </Familia>
+// <Familia>
+//     <Membro nome="Lucas" sobrenome="da Silva"/>
+//     <Membro nome="Fernando" sobrenome="da Silva"/>
+//     <Membro nome="Jorge" sobrenome="da Silva"/>
+//     <Membro nome="Marcia" sobrenome="da Silva"/>
+//     </Familia>
+// </SafeAreaView>
 
 // <NavigationContainer>
     //     <Stack.Navigator>
